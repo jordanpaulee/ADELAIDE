@@ -1,6 +1,7 @@
 # ADELAIDE
 _Autonomous Digital Everyday Liaison and Artificially Intelligent Digital Entity_ 
-Being developed as a real life example of J.A.R.V.I.S. This project is being developed in sections, beginning with research in computer vision and hardware integration. 
+
+Currently being developed as a real life example of J.A.R.V.I.S. This project is being developed in sections, beginning with research in computer vision and hardware integration. 
 
 **Roadmap**
 
