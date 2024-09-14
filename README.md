@@ -23,5 +23,5 @@ Currently being developed as a real life example of J.A.R.V.I.S. This project is
 - **Integrating ADELAIDE with her Environment**
      - Following integration with her neural network and sensory network, train ADELAIDE on the environment, i.e. family members, facial data, routines, security protocols, 
 
-- **Home Integration and.... Market Offering(?)**
-     - The goal of this project is chiefly, to learn and to have a cool home assistant. But, given the scope of ADELAIDE, and the capabilities of what is planned, I believe this product could ultimately be of use to more than just myself, and I would love to see how far I can go with it! The secondary goal of this project is to remove that (?)
+- **Home Integration**
+     - The goal of this project is chiefly, to learn and to have a cool home assistant. But, given the scope of ADELAIDE, and the capabilities of what is planned, I believe this product could ultimately be of use to more than just myself, and I would love to see how far I can go with it!
