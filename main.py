@@ -3,7 +3,6 @@ import math
 from ultralytics import YOLO
 
 
-
 # start webcam
 cap = cv2.VideoCapture(0) # Capturing video from default camera
 # Video Dimensions
