@@ -1,27 +1,23 @@
 # ADELAIDE
 _Autonomous Digital Everyday Liaison and Artificially Intelligent Digital Entity_ 
 
-Currently being developed as a real life example of J.A.R.V.I.S. This project is being developed in sections, beginning with research in computer vision and hardware integration. 
+This project is being developed in sections with a focus on developing my skills in different areas of tech, ultimately serving as an intro in AI/ML.
 
 **Roadmap**
 
-- **Giving ADELAIDE Eyes** (Current Task)
-     - Researching, developing, and implementing a camera network and visual tracking software for ADELAIDE to use for visual data processing
-     - **Technologies**: _OpenCV_
-     - **Languages**: _Python_ (Preliminary)
+- **ADELAIDE's Eyes**
+     - Implementing OpenCV object detection using YOLO for use in future features.
+     - **Technologies**: _OpenCV_, _Ultralytics_
+     - **Languages**: _Python_
 
-- **Developing ADELAIDE's Brain**
-     - Designing and implementing ADELAIDE's neural network and core structures that will be used for human interaction and learning processes
-     - Designing and implementing databases for memories, learning, and other use cases within the project
-
-- **Developing Sensory Network** 
-     - Designing other methods of sensory integration i.e. temperature sensors, infrared, audio, and other audio visual data intake methods for ADELAIDE
-
-- **Integrating ADELAIDE and her Sensory Network**
-     - Connecting ADELAIDE's brain with her sensory network and deploying her in a developmental testing phase.
+- **ADELAIDE's Brain**
+     - Implementing LLM frameworks for ADELAIDE to engage in human interaction
+     - **Technologies**: _LLAMA 3_, _AssemblyAI_
+     - **Notes**: ***Constants*** **file with API keys necessary for build. If you wish to clone this repo you must obatain your own API keys**
+     - Designing and implementing databases for memories, learning, and other future use cases within the project
 
 - **Integrating ADELAIDE with her Environment**
-     - Following integration with her neural network and sensory network, train ADELAIDE on the environment, i.e. family members, facial data, routines, security protocols, 
+     - Following vision and LLM implementation I plan to train ADELAIDE on the environment, i.e. facial data, routines, security protocols, etc.Ultimately this step integrates the LLM, CV, NN, and any other database frameworks used.
 
 - **Home Integration**
      - The goal of this project is chiefly, to learn and to have a cool home assistant. But, given the scope of ADELAIDE, and the capabilities of what is planned, I believe this product could ultimately be of use to more than just myself, and I would love to see how far I can go with it!
