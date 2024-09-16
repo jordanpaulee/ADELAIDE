@@ -3,16 +3,24 @@ _Autonomous Digital Everyday Liaison and Artificially Intelligent Digital Entity
 
 This project is being developed in sections with a focus on developing my skills in different areas of tech, ultimately serving as an intro in AI/ML.
 
-**Roadmap**
+### Instructions for use
+- To run eyes or brain:
+     - **Create a Python 3.9.6 conda env**
+     - pip install -r requirements.txt
+     - brew install portaudio
+     - python eyes.py/brain.py
+          - *brain.py requires an active AssemblyAi API key and paid access to their Streaming-Speech-To-Text API
 
-- **ADELAIDE's Eyes**
+### Roadmap
+
+- **ADELAIDE's Eyes** _Initial build complete_
      - Implementing OpenCV object detection using YOLO for use in future features.
      - **Technologies**: _OpenCV_, _Ultralytics_
      - **Languages**: _Python_
 
-- **ADELAIDE's Brain**
-     - Implementing LLM frameworks for ADELAIDE to engage in human interaction
-     - **Technologies**: _LLAMA 3_, _AssemblyAI_
+- **ADELAIDE's Brain** _Initial build complete_
+     - Implementing an LLM framework with a TTS framework for vocal interaction with ADELAIDE
+     - **Technologies**: _LLAMA 3_, _AssemblyAI Stream-Text-To-Speech_
      - **Notes**: ***Constants*** **file with API keys necessary for build. If you wish to clone this repo you must obatain your own API keys**
      - Designing and implementing databases for memories, learning, and other future use cases within the project
 
